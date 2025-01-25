@@ -1,0 +1,5 @@
+psutil
+pandas
+pyspark
+boto3
+chardet

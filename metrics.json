@@ -1,0 +1,78 @@
+{
+    "pr": {
+      "source": "Vinod and Agilan 2024",
+      "models": [
+        "FGOALS-g3",
+        "HadGEM3-GC31-MM",
+        "EC-Earth3",
+        "BCC-CSM2-MR",
+        "CNRM-CM6-1",
+        "CNRM-ESM2-1",
+        "CanESM5",
+        "MPI-ESM1-2-LR",
+        "MPI-ESM-1-2-HR",
+        "IITM-ESM",
+        "INM-CM5-0"
+      ]
+    },
+    "tasmax": {
+      "source": "Abdul and Sreeja 2024",
+      "models": [
+        "KIOST-ESM",
+        "MRI-ESM2-0",
+        "MIROC6",
+        "NESM3",
+        "IITM-ESM",
+        "CanESM5"
+      ]
+    },
+    "tasmin": {
+      "source": "Abdul and Sreeja 2024",
+      "models": [
+        "NESM3",
+        "CanESM5",
+        "GFDL-CM4",
+        "GFDL-ESM4",
+        "INM-CM5-0",
+        "IITM-ESM",
+        "CMCC-ESM2"
+      ]
+    },
+    "tas": {
+      "source": "Abdul and Sreeja 2024",
+      "models": [
+        "KIOST-ESM",
+        "MRI-ESM2-0",
+        "MIROC6",
+        "NESM3",
+        "CanESM5",
+        "GFDL-CM4",
+        "GFDL-ESM4",
+        "INM-CM5-0",
+        "IITM-ESM",
+        "CMCC-ESM2"
+      ]
+    },
+    "hurs": {
+      "source": "Shukla and Raju 2023",
+      "models": [
+        "CanESM5",
+        "EC-Earth3",
+        "MIROC6",
+        "MPI-ESM1-2-LR",
+        "IITM-ESM"
+      ]
+    },
+    "sfcWind": {
+      "source": "Sreejith et al. 2024",
+      "models": [
+        "BCC-CSM2-HR",
+        "EC-Earth3",
+        "CMCC-CM2-SR5",
+        "GFDL-ESM4",
+        "CNRM-CM6-1",
+        "HadGEM3-GC31-MM",
+        "MPI-ESM1-2-HR"
+      ]
+    }
+  }

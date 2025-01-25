@@ -1,0 +1,10 @@
+tqdm
+pyarrow
+pandas
+geopandas
+xarray
+shapely
+rioxarray
+# sudo apt install -y gdal-bin libgdal-dev python3-dev
+boto3
+netCDF4
